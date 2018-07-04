@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Maps/PGScope.umap
+Content/Maps/SideScrollerMap.umap
+Content/Maps/SideScrollerMap_BuiltData.uasset
